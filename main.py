@@ -2,12 +2,20 @@ import random
 
 
 def generate_string(length):
-    alphabet = "йцукенгшщзхъэждлорпавыфячсмитьбюqwertyuioplkjhgfdsazxcvbnm"
-    string = ""
-    for i in range(length):
-        x = random.randint(0, 57)
-        string += alphabet[x]
-    return string
+    pass
 
 
-print(generate_string(12))
+def get_string():
+    pass
+
+
+def crypto():
+    pass
+
+
+def print_crypto():
+    pass
+
+
+def end():
+    pass
